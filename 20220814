@@ -1,0 +1,9 @@
+今天跟着视频边看边敲，真的很有意思！
+
+今日完成：
+重新配置了npm、cpm、yarn
+幸好之前下载过Vue和Vue-cli，节省了一点时间
+一些需要用到的依赖：vue-router、ElementUI、less、less-loader
+（ElementUI真的好方便，回想几个月前自己一个代码一个代码设计前端页面布局，真的太瓜了）
+管理系统的首页布局
+导航栏一级menu和二级menu的实现
